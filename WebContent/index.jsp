@@ -7,7 +7,7 @@
 <title>Insert title here</title>
  <script type="text/javascript">
 	window.onload = function(){
-		//1.获取a 节点，并为其添加onclick 响应函数
+		//1.获取a 节点，并为其添加onclick 响应函数dfdfdf
 		document.getElementsByTagName("a")[0].onclick = function(){
 			alert("abc4");
 			//3.创建一个XMLHttpRequest对象
